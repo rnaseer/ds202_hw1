@@ -1,0 +1,18 @@
+---
+title: "Partner"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Name**: Joseph Strobel
+
+**Github username**: strobelight6
+
+**Rabsa's most recent commit** added "Homework 1 RMarkDown files". The **commit id** is: d3a85eea47b019ec64d0bc46521fa6e2ba9a8a4d
+
+There is an error when I try to knit Rabsa's .Rmd file because the image used has an absolute path. 
+
+One error I encountered was uploading my local git repo to the Github repo. Github did not show me the instructions to upload an existing repo so I just cloned the repo to my machine and added the files, then made and pushed a commit. 
